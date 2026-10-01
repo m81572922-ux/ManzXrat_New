@@ -1,0 +1,8 @@
+name: manzxrat
+description: MAN X RAT App
+version: 1.0.0
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter

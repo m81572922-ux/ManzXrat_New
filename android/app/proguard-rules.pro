@@ -1,0 +1,3 @@
+-keep class com.manzxrat.app.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
